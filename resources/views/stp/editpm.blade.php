@@ -18,7 +18,7 @@
 
 <tr>
         <th scope="col" class="align-middle" colspan="5"> 
-        <img src="/dataIMG_user/logo.JPEG" style="width:450px; height:70px;"/>
+        <img src="/dataIMG_user/diamondland.png" style="width:130px; height:70px;"/>
         </th>
 
         <th scope="col" align="center" class="align-middle" colspan="9">PM SCHEDULE : 
