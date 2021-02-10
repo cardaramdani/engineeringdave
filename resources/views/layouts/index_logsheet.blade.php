@@ -71,11 +71,11 @@
                     <a href="{{ url('/pmfirealarm')}}"><i class="fas fa-bullhorn"></i><span>Fire Alarm</span></a>
                     <a href="{{ url('/pmfirepump')}}"><i class="fas fa-fire-extinguisher"></i><span>Fire Pump</span></a>
                     <a href="{{ url('/pmgenset')}}"><i class="fas fa-oil-can"></i><span>Genset</span></a>
-                    <a href="{{ url('/gondola')}}"><i class="fas fa-ellipsis-v"></i><span>Gondola</span></a>
+                    <a href="{{ url('/gondola')}}"><i class="fas fa-ellipsis-v"></i><span> Gondola</span></a>
                     <a href="{{ url('/hydrant')}}"><i class="fas fa-fire-extinguisher"></i><span>Hydrant Box</span></a>
                     <a href="{{ url('/pmpanel')}}"><i class="fas fa-charging-station"></i><span>Panel Power</span></a>
                     <a href="{{ url('/pmpompa')}}"><i class="fas fa-address-card"></i><span>Pompa</span></a>
-                    <a href="{{ url('/rooftank')}}"><i class="fas fa-codepen"></i><span>Roof Tank</span></a>
+                    <a href="{{ url('/rooftank')}}"><i class="fas fa-box"></i><span>Roof Tank</span></a>
                     <a href="{{ url('/pmstp')}}"><i class="fas fa-industry"></i><span>STP</span></a>
                     <a href="{{ url('/toilet')}}"><i class="fas fa-toilet"></i><span>Toilet</span></a>
                   </div>
