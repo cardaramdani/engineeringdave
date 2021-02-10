@@ -178,6 +178,7 @@ body{
   background-size: auto;
   height: 900vh;
   transition: 0.5s;
+  color: navajowhite;
 }
 
 .wrapper.collapse .sidebar{
