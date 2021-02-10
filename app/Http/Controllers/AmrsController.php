@@ -16,7 +16,7 @@ class AmrsController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function index()
-    {
+    { 
         $Amr = Amr::orderBy('created_at', 'desc')->Paginate(20);
 
         
