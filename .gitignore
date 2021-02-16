@@ -1,5 +1,9 @@
 /node_modules
 /public/hot
+/public/dataIMG_kwhcomersile
+/public/dataIMG_kwhmeterunit
+/public/dataIMG_watermeterunit
+/public/dataIMG_user
 /public/storage
 /storage/*.key
 /vendor
